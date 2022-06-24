@@ -19,7 +19,7 @@ function solution (text) {
     }
     
     let hastwo = 0;
-    let hasthree = 0;
+    let hasthree = 0; 
 
     for (j=0;j<arrayedtext.length;j++){
         eachmap = occurence (arrayedtext[j]);
